@@ -1,5 +1,4 @@
 ﻿# Website-for-detecting-the-sentiment-of-Thai-sentences
-<br>
 pip install mysql-connector-python <br>
 pip install pandas <br>
 pip install scikit-learn <br>
